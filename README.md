@@ -31,10 +31,12 @@ Make sure to enable **“Install from unknown sources”** in your Android setti
 
 Here’s a preview of the app you’ll be installing:
 
-![UI 1](https://github.com/Amritbhandari111/Summerhackclub-Project-Demo/raw/main/calc1.jpg)  
-![UI 2](https://github.com/Amritbhandari111/Summerhackclub-Project-Demo/raw/main/calc2.jpg)  
-![UI 3](https://github.com/Amritbhandari111/Summerhackclub-Project-Demo/raw/main/calc3.jpg)  
-![UI 4](https://github.com/Amritbhandari111/Summerhackclub-Project-Demo/raw/main/calc4.jpg)
+<div align="center">
+  <img src="https://github.com/Amritbhandari111/Summerhackclub-Project-Demo/raw/main/calc1.jpg" width="250" />
+  <img src="https://github.com/Amritbhandari111/Summerhackclub-Project-Demo/raw/main/calc2.jpg" width="250" />
+  <img src="https://github.com/Amritbhandari111/Summerhackclub-Project-Demo/raw/main/calc3.jpg" width="250" />
+  <img src="https://github.com/Amritbhandari111/Summerhackclub-Project-Demo/raw/main/calc4.jpg" width="250" />
+</div>
 
 ---
 
